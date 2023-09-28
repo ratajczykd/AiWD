@@ -2,7 +2,7 @@
 
 Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu.
 
-### :e-mail: Kontakt do prowadzących
+### :e-mail: Kontakt do prowadzącego
 
  * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl, dyżur: piątek 11:30-12:30, pokój 110
 
