@@ -24,7 +24,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
 ### Projekt
 
-Celem projektu jest przeprowadzenie analiz w zespołach 2-osobowych na wybranym przez siebie zestawie danych (np. ze strony `https://www.kaggle.com/`) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook, oraz raport w formacie pdf. \\
+Celem projektu jest przeprowadzenie analiz w zespołach 2-osobowych na wybranym przez siebie zestawie danych (np. ze strony `https://www.kaggle.com/`) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook, oraz raport w formacie pdf. 
 
 W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
 1. Omówienia wybranego zestawu danych i kierunku pracy.
