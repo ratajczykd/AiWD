@@ -6,6 +6,16 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
  * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl, dyżur: piątek 11:30-12:30, pokój 110
 
+### Instalacja Jupyter notebook:
+W konsoli:
+```
+ pip install jupyterlab
+ pip install notebook
+```
+Aby uruchomić notebook wpisujemy w konsoli:
+```
+jupyter notebook
+```
 
 ### Organizacja zajęć 
 
