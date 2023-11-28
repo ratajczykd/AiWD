@@ -34,15 +34,19 @@ jupyter notebook
 
 ### Projekt
 
-Celem projektu jest przeprowadzenie analiz w zespołach 2-osobowych na wybranym przez siebie zestawie danych (np. ze strony `https://www.kaggle.com/`) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook, oraz raport w formacie pdf. 
+Celem projektu jest przeprowadzenie analiz w zespołach 2-osobowych na wybranym przez siebie zestawie danych (np. ze strony `https://www.kaggle.com/`) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook, oraz raport w formacie pdf. Raport powinien zawierać stronę tytułową, wprowadzenie, opis hipotez, opis analiz, wykresy, wnioski. 
 
 W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
-1. Omówienia wybranego zestawu danych i kierunku pracy.
+1. Omówienia wybranego zestawu danych i kierunku pracy (przygotowanie pytań badawczych, określenie typów zmiennych i testów statystycznych). Na pierwsze spotkanie należy się umówić do **10. stycznia**.
 2. Obrony projektu.
 
-Za projekt można otrzymać 20 punktów. 
+Link do rejestracji na spotkania: 
+https://ratajczyk-dawid.youcanbook.me/
+
 
 ### Kryteria oceny z przedmiotu
+
+Za projekt można otrzymać 20 punktów. 
 
 | Ocena | L. punktów |
 |------------------------|:---------:|
