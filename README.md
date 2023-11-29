@@ -40,6 +40,8 @@ W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
 1. Omówienia wybranego zestawu danych i kierunku pracy (przygotowanie pytań badawczych, określenie typów zmiennych i testów statystycznych). Na pierwsze spotkanie należy umówić się do **10. stycznia**. 
 2. Obrony projektu. Na drugie spotkanie należy umówić się do 31. stycznia. 
 
+Miejsce spotkania: **sala 70a w AB**
+
 Link do rejestracji na spotkania: 
 https://ratajczyk-dawid.youcanbook.me/
 
