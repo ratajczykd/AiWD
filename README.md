@@ -38,7 +38,7 @@ Celem projektu jest przeprowadzenie analiz w zespołach 2-osobowych na wybranym 
 
 W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
 1. Omówienia wybranego zestawu danych i kierunku pracy (przygotowanie **min. 5 pytań badawczych**, określenie typów zmiennych i testów statystycznych). Na pierwsze spotkanie należy umówić się do **10. stycznia**. 
-2. Obrony projektu. Na drugie spotkanie należy umówić się do 31. stycznia. 
+2. Obrony projektu. Na drugie spotkanie należy umówić się do 31. stycznia. **Gotowy raport oraz kod analizy w pliku .ipynb należy przesłać 3 dni przed drugim spotkaniem**.
 
 Miejsce spotkania: **sala 70a w AB**
 
