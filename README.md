@@ -22,17 +22,6 @@ jupyter notebook
 * 8 zajęć labolatoryjnych 
 * Realizacja projektu -- analiza i wizualizacja wybranych danych
 
-### Tematy zajęć
-
-1. Jupyter Notebook i przypomnienie Pythona
-2. Numpy -- tabele i macierze w Pythonie
-3. Pandas -- operacje na danych tabelowych
-4. Matplotlib -- wizualizacja danych
-5. Seaborn -- zaawansowane wykresy
-6. Scipy -- obliczenia statystyczne
-7. Przygotowanie danych
-8. Przykładowa analiza danych
-
 ### Projekt
 
 Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych (np. ze strony `https://www.kaggle.com/`) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook, oraz raport w formacie pdf. Raport powinien zawierać stronę tytułową, wprowadzenie, opis hipotez, opis analiz, wykresy, wnioski. 
