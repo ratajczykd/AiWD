@@ -22,7 +22,7 @@ jupyter notebook
 * 8 zajęć labolatoryjnych 
 * Realizacja projektu -- analiza i wizualizacja wybranych danych
 
-### Tematy zajęć wykładowych
+### Tematy zajęć
 
 1. Jupyter Notebook i przypomnienie Pythona
 2. Numpy -- tabele i macierze w Pythonie
