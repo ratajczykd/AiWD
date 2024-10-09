@@ -18,7 +18,7 @@ jupyter notebook
 ```
 
 ALBO 
-Zainstalować anacondę, która zawiera wszystkie potrzebne paczki: `https://www.anaconda.com/`
+zainstalować anacondę, która zawiera wszystkie potrzebne paczki: `https://www.anaconda.com/`
 
 ### Organizacja zajęć 
 
