@@ -17,6 +17,9 @@ Aby uruchomić notebook wpisujemy w konsoli:
 jupyter notebook
 ```
 
+ALBO 
+Zainstalować anacondę, która zawiera wszystkie potrzebne paczki: `https://www.anaconda.com/`
+
 ### Organizacja zajęć 
 
 * 8 zajęć labolatoryjnych 
