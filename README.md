@@ -76,8 +76,8 @@ Za projekt można otrzymać 20 punktów.
 |4.|	Matplotlib	| 29/23.10.24 |
 |5.|	Seaborn | 5.11/30.10.24 |
 |6.|	Scipy	| 12/6.11.24 |
-|7.| Przygotowanie danych | 19/13.11.24 |
-|8.|	Przykładowa analiza danych	| 26/20.11.24 |
+|7.| Przykładowa analiza danych | 19/13.11.24 |
+|8.| Przygotowanie danych	| 26/20.11.24 |
 |9.| Indywidualne konsultacje projektowe I	| 3.12/27.11.24 |
 |10.|	Indywidualne konsultacje projektowe I	| 10/4.12.24 |
 |11.|	Indywidualne konsultacje projektowe I	| 17/11.12.24 |	
